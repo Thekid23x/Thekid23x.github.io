@@ -36,8 +36,7 @@ div.Logo{
    td a{
     color: blue;
    }
-@media screen and (max-width:800px){
-    flex-direction: column;
-    justify-content: space-evely;
+@media (max-width: 767px){
+   
 }
     
